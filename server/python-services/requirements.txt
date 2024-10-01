@@ -1,0 +1,4 @@
+
+// other python dependencies
+Flask
+textblob
