@@ -3,15 +3,9 @@
 npm-debug.log
 yarn-error.log
 
-<<<<<<< HEAD
 # Build Artifacts
 dist/
 build/
-=======
-# Node.js (Server and Client)
-/dist
-/build
->>>>>>> 8a21d6fb1d34abf53f3308075c2f75f6ebbe5a86
 
 # dependencies
 /node_modules
@@ -31,9 +25,7 @@ coverage
 *.log
 npm-debug.log*
 
-<<<<<<< HEAD
 # OS-Specific Files
-=======
 # production
 build
 
@@ -43,38 +35,6 @@ build
 # misc
 /.vscode
 /.idea
->>>>>>> 8a21d6fb1d34abf53f3308075c2f75f6ebbe5a86
 .DS_Store
 Thumbs.db
 
-<<<<<<< HEAD
-# IDE Specific Files
-.vscode/
-.idea/
-*.iml
-
-# Dependency Directory for Python
-venv/
-__pycache__/
-*.pyc
-
-# Coverage Reports
-coverage/
-*.lcov
-
-# Temporary Files
-*.tmp
-*.swp
-
-# Test Output
-*.test.js.snap
-
-# Python Bytecode
-*.pyc
-*.pyo
-
-# Production Files (Optional, if auto-generated)
-.env.production
-.env.local
-=======
->>>>>>> 8a21d6fb1d34abf53f3308075c2f75f6ebbe5a86
