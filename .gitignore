@@ -7,8 +7,18 @@ yarn-error.log
 dist/
 build/
 
-# Environment Variables
-.env
+# dependencies
+/node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# Python (Microservices)
+__pycache__/
+*.pyc
+venv/
 
 # Logs
 logs/
